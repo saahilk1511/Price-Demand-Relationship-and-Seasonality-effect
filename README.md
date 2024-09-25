@@ -1,5 +1,5 @@
 # Price Demand Relationship and Seasonality effect
-Applying K-Means Clustering Analysis in Retail Industry to Explore Descriptive Price-Demand Relationship and Seasonality effect
+A 2-person team project at Boston University where we conducted a detailed analysis of customer behavior using k-means clustering to analyze the price-demand relationship and the seasonality effect in a large retail environment
 
 
 <img width="630" alt="Screen Shot 2022-02-03 at 11 56 19 AM" src="https://user-images.githubusercontent.com/77642698/152390747-7e8d85b4-2500-482c-a2c0-0531d8ad6e82.png">
